@@ -17,8 +17,9 @@ The implementation demonstrates key OOP principles such as encapsulation, inheri
 g++ BankAccountManager.cpp -o bank
 ./bank
 ```
-```bash
+
 ### On Windows (MinGW g++):
+```bash
 g++ BankAccountManager.cpp -o bank.exe
 bank.exe
 ```
